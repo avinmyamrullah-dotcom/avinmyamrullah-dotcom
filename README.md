@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Davin
 
-### 💻 Fullstack Developer | Software Engineering Graduate
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:C77DFF&height=220&section=header&text=Davino%20Mulya%20Amrullah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-> Building clean, useful, and modern digital experiences through code.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%F0%9F%92%BB;Software+Engineering+Graduate+%F0%9F%8E%93;PHP+%7C+JavaScript+%7C+Python+%F0%9F%90%8D;Always+Learning+New+Things+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💻 Fullstack Developer &nbsp; • &nbsp; 🚀 Programmer &nbsp; • &nbsp; 🎓 Software Engineering Graduate
+</p>
 
 ---
 
@@ -10,63 +18,27 @@
 
 Halo, saya **Davino Mulya Amrullah**, Student dari **SMK IDN Boarding School** dengan jurusan **Rekayasa Perangkat Lunak**.
 
-Saya seorang **Fullstack Developer** yang memiliki ketertarikan dalam pengembangan aplikasi dan website. Saya senang mempelajari teknologi baru, membangun project, serta mengembangkan kemampuan programming untuk menciptakan solusi digital yang bermanfaat.
+Saya seorang **Fullstack Developer** yang tertarik dalam pengembangan website dan aplikasi. Saya senang mempelajari teknologi baru, membuat project, dan terus meningkatkan kemampuan programming untuk menciptakan solusi digital yang bermanfaat.
 
----
+```javascript
+const davin = {
+    role: "Fullstack Developer",
+    education: "Software Engineering",
+    languages: ["PHP", "JavaScript", "Python"],
+    focus: "Web Development",
+    mindset: "Always Learning 🚀"
 
-## 🛠️ Languages & Technologies
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="50" height="50" alt="PHP" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Python" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" height="50" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" height="50" alt="CSS3" />
-</p>
+    <p align="center"> <img src="https://skillicons.dev/icons?i=php,js,python,html,css&theme=dark" alt="Languages and Technologies" /> </p> <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+    <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=%3C%2F%3E+Build+Web+Applications;%F0%9F%8E%A8+Create+Modern+UI;%F0%9F%94%A7+Develop+Backend+Systems;%F0%9F%90%9B+Debug+%26+Improve+Code;%F0%9F%9A%80+Turn+Ideas+Into+Projects" alt="What I Do" /> </p>
 
----
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=avinmyamrullah&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinmyamrullah&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=avinmyamrullah&theme=midnight-purple&hide_border=true&border_radius=10" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinmyamrullah&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph" /> </p>
 
-## 🌐 Connect With Me
+    <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B1+Learning+Fullstack+Development;%F0%9F%92%BB+Building+Web+Projects;%F0%9F%94%A5+Improving+Programming+Skills;%F0%9F%A7%A0+Learning+New+Technologies;%F0%9F%9A%80+Preparing+For+The+Next+Project" alt="Currently" /> </p>
 
-<p align="left">
-  <a href="https://wa.me/85795402450">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/avinmyamrullah">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/kyisacrm/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:avinmyamrullah@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" />
-  </a>
-</p>
+    <p align="center"> <a href="https://wa.me/85795402450"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" alt="WhatsApp" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/avinmyamrullah"> <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" alt="GitHub" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/kyisacrm/"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram" /> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:avinmyamrullah@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Email" /> </a> </p>
 
-### 📫 Contact
-
-- 💬 **WhatsApp:** [Chat with me](https://wa.me/85795402450)
-- 🐙 **GitHub:** [@avinmyamrullah](https://github.com/avinmyamrullah)
-- 📸 **Instagram:** [@kyisacrm](https://www.instagram.com/kyisacrm/)
-- 📧 **Email:** [avinmyamrullah@gmail.com](mailto:avinmyamrullah@gmail.com)
-
----
-
-<p align="center">
-  <b>✨ Thanks for visiting my profile! ✨</b>
-</p>
-
-<p align="center">
-  <i>Code • Learn • Build • Improve</i>
-</p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinmyamrullah&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:C77DFF&height=160&section=footer&animation=fadeIn" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9C;Let's+build+something+awesome!+%F0%9F%9A%80" alt="Thanks" /> </p> <p align="center"> <b>✨ Code • Learn • Build • Improve ✨</b> </p>
+};
+```
