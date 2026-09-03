@@ -24,6 +24,25 @@ Saya seorang **Fullstack Developer** yang tertarik dalam pengembangan website da
 
 ## 🛠️ Languages & Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,python,html,css&theme=dark" alt="Languages and Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=%3C%2F%3E+Build+Web+Applications;%F0%9F%8E%A8+Create+Modern+UI;%F0%9F%94%A7+Develop+Backend+Systems;%F0%9F%90%9B+Debug+%26+Improve+Code;%F0%9F%9A%80+Turn+Ideas+Into+Projects" alt="What I Do" />
+</p>
 
 ---
 
